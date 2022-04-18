@@ -1,5 +1,4 @@
-<h3 align="center">DC BOTs</h3>
-<h6 align="center">My Discord BOTs</h6>
+<h3 align="center">My Discord Bots</h3>
 
 ---
 
