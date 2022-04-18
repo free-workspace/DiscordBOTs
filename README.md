@@ -6,3 +6,4 @@
 #### <a href="https://github.com/orgs/free-workspace/repositories">⮜</a> 🢝 ⮞
 
 ### About
+Each branch have the source code of some bot. The overview branch has only the README and LICENSE files.
